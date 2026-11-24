@@ -2,3 +2,5 @@
 ^\.Rproj\.user$
 ^CONDUCT\.md$
 ^cran-comments\.md$
+^AGENTS\.md$
+^CLAUDE\.md$
